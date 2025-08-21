@@ -10,7 +10,7 @@
 - **Lenguajes:** Python, Java, JavaScript
 - **Frameworks:** Django  
 - **Bases de datos:** SQLite, MySQL  
-- **Otros:** Git, HTML, CSS, Excel, LaTeX  
+- **Otros:** Git, HTML, CSS, Excel  
 
 ---
 
